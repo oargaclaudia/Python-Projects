@@ -1,0 +1,18 @@
+{
+  "2": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "2",
+    "modelMasina": "opel",
+    "anAchizitie": 2009,
+    "nrKmMasina": 100.0,
+    "GarantieMasina": "nu"
+  },
+  "1": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "1",
+    "modelMasina": "a",
+    "anAchizitie": 2002,
+    "nrKmMasina": 10.0,
+    "GarantieMasina": "nu"
+  }
+}

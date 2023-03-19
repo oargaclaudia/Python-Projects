@@ -1,0 +1,20 @@
+{
+  "1": {
+    "py/object": "Domain.card.Card",
+    "idEntitate": "1",
+    "nume": "ana",
+    "prenume": "pop",
+    "CNP": "1",
+    "datanasterii": "01.12.2009",
+    "datainregistrarii": "09.09.2020"
+  },
+  "2": {
+    "py/object": "Domain.card.Card",
+    "idEntitate": "2",
+    "nume": "ana",
+    "prenume": "pop",
+    "CNP": "02",
+    "datanasterii": "01.12.2009",
+    "datainregistrarii": "01.12.2010"
+  }
+}
